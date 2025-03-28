@@ -10,7 +10,7 @@ import { RouterOutlet } from '@angular/router';
 export class AppComponent {
   title = 'demo';
 
-  name: string = "Iness Mudadi"
+  name: string = "I love You Iness Mudadi I want to marry you"
 
    constructor () {
     console.log (this.name)
